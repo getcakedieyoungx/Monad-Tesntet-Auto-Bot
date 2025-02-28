@@ -17,6 +17,10 @@ git clone https://github.com/getcakedieyoungx/Monad-Tesntet-Auto-Bot.git
 cd Monad-Tesntet-Auto-Bot
 ```
 
+```bash
+npm install
+```
+
 Create private keys file, add 1 priv per line.
 
 ```bash
